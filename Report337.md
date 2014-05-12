@@ -21,7 +21,7 @@ In the first step we've recorded data.
 
 The first signal is the signal extracted from bitalino. The second signal is with the correct axis in mV. The third signal is the second signal with filter.
 
-![signal](http://uploaddeimagens.com.br/imagens/emg_signal-jpg--3)
+![signal](http://uploaddeimagens.com.br/imagens/emg_signal-jpg)
 
 We concluded that we needed to use a better electrodes position
 
