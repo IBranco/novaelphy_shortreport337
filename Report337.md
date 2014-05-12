@@ -15,22 +15,15 @@ Use Bitalino to acquire an electromyogram, EMG signal, and estimate how many seq
 
 We passed by the several steps:
 
-### Step 1 - First signal recorded
+### Signal recorded
 
 In the first step we've recorded data. 
 
-This was the first signal extracted from bitalino 
+The first signal is the signal extracted from bitalino. The second signal is with the correct axis in mV. The third signal is the second signal with filter.
 
-![first signal](http://produceconsumerobot.com/biosensing/content/gimo32-f3.jpg)
+![signal](http://uploaddeimagens.com.br/imagens/emg_signal-jpg)
 
 We concluded that we needed to use a better electrodes position
-
-### Step 2 - Signal processing
-
-...
-
-
-### Step 5 - The final outcome
 
 ## Code example
 
